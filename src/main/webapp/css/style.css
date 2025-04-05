@@ -1,0 +1,37 @@
+@charset "UTF-8";
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+ul, li{list-style: none;}
+a{color: deeppink;}
+body{font-family: Arial, Helvetica, sans-serif;font-size: 16px;color: #5d5dd5;padding: 40px 0;}
+.container{max-width: 1000px;margin: 0 auto;}
+h1 {
+    color: rebeccapurple;
+    border-bottom: 1px solid red;
+    padding: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+li {
+    padding: 10px;
+    box-shadow: 0px 0px 1px red;
+    margin-bottom: 10px;
+}
+
+.block1 {
+    background: #000;
+    padding: 10px;
+    margin: 5px 0;
+    color: green;
+}
+
+.block1 h3 {
+    border-bottom: 1px solid;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: red;
+}
