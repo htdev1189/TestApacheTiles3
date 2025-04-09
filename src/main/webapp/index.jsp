@@ -16,6 +16,7 @@
 				<p>Nếu muốn dùng spring 5 thì tomcat lại chạy về 9.</p>
 				<p>JDK chuyển về phiên bản 17 chứ ko phải 21</p>
 				<p>Thư viện Spring 5.3.23 và Lites 3.0 đã tải về hết trong lib</p>
+				<p>Vào project facets -> chuyển đổi java về 18 -- tốn rất nhiều thời gian suy nghĩ về lỗi </p>
 				<p> link tải Apache lites 3.0 -> <a href="https://archive.apache.org/dist/tiles/3.0.8/" target="_blank">https://archive.apache.org/dist/tiles/3.0.8/</a>
 				</p>
 				<p>Lỗi xml download <a href="https://stackoverflow.com/questions/77252112/downloading-from-external-resources-is-disabled-in-hibernate-dtd">https://stackoverflow.com/questions/77252112/downloading-from-external-resources-is-disabled-in-hibernate-dtd</a></p>

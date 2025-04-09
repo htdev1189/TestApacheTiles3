@@ -22,7 +22,7 @@
     </property>
 </bean>
 
-<!-- View resolver -->
+<!-- View resolver dsd   -->
 <bean class="org.springframework.web.servlet.view.UrlBasedViewResolver">
     <property name="viewClass" value="org.springframework.web.servlet.view.tiles3.TilesView" />
     <property name="order" value="0" />
